@@ -1,2 +1,6 @@
-
+workspace/ros2_ws/
+build/
+install/
+log/
+__pycache__/
 *.pyc
